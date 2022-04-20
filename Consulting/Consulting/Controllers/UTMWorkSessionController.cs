@@ -97,9 +97,17 @@ namespace Consulting.Controllers
         {
             if (ModelState.IsValid)
             {
-                _context.Add(workSession);
-                await _context.SaveChangesAsync();
-                return RedirectToAction(nameof(Index));
+                try
+                {
+                    _context.Add(workSession);
+                    await _context.SaveChangesAsync();
+                    TempData["message"] = "New Work Session is successfully created";
+                    return RedirectToAction(nameof(Index));
+                }
+                catch (Exception ex)
+                {
+                    ModelState.AddModelError("", ex.GetBaseException().Message);
+                }
             }
             ViewData["ConsultantId"] = new SelectList(_context.Consultant, "ConsultantId", "FirstName", workSession.ConsultantId);
             ViewData["ContractId"] = new SelectList(_context.Contract, "ContractId", "Name", workSession.ContractId);
@@ -187,8 +195,17 @@ namespace Consulting.Controllers
         public async Task<IActionResult> DeleteConfirmed(int id)
         {
             var workSession = await _context.WorkSession.FindAsync(id);
-            _context.WorkSession.Remove(workSession);
-            await _context.SaveChangesAsync();
+            try
+            {
+                _context.WorkSession.Remove(workSession);
+                await _context.SaveChangesAsync();
+                TempData["message"] = " Work Session is successfully deleted";
+                return RedirectToAction(nameof(Index));
+            }
+            catch (Exception ex)
+            {
+                ModelState.AddModelError("", ex.GetBaseException().Message);
+            }
             return RedirectToAction(nameof(Index));
         }
 
