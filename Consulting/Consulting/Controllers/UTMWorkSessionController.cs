@@ -46,7 +46,17 @@ namespace Consulting.Controllers
                 TempData["message"] = "Please select Contract";
                 return RedirectToAction("Index", "UTMContract");
             }
-            var consultingContext = _context.WorkSession.Include(w => w.Consultant).Include(w => w.Contract);
+
+            // Filtering in the index file
+
+            var consultingContext = _context.WorkSession.Include(w => w.Consultant).Include(w => w.Contract).Where(a => a.ContractId == Convert.ToInt32(ContractId));
+
+            // Total Hours and Total Cost calculation
+            var workSessions = consultingContext.ToList();
+
+            ViewBag.totalHours = workSessions.Sum(a => a.HoursWorked);
+            ViewBag.totalCost = workSessions.Sum(a => a.HoursWorked * a.HourlyRate);
+
             return View(await consultingContext.ToListAsync());
         }
 
