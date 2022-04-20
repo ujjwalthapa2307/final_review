@@ -149,6 +149,7 @@ namespace Consulting.Controllers
                 try
                 {
                     _context.Update(workSession);
+                    TempData["message"] = " Work Session is successfully updated";
                     await _context.SaveChangesAsync();
                 }
                 catch (DbUpdateConcurrencyException)
@@ -161,6 +162,10 @@ namespace Consulting.Controllers
                     {
                         throw;
                     }
+                }
+                catch (Exception ex)
+                {
+                    ModelState.AddModelError("", ex.GetBaseException().Message);
                 }
                 return RedirectToAction(nameof(Index));
             }
