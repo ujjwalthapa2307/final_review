@@ -1,0 +1,926 @@
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.AssemblyInfoInputs.cache
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.AssemblyInfo.cs
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.csproj.CoreCompileInputs.cache
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.RazorAssemblyInfo.cache
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.RazorAssemblyInfo.cs
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.StaticWebAssets.xml
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.exe
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.deps.json
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.runtimeconfig.json
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.runtimeconfig.dev.json
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.pdb
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.Views.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.Views.pdb
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.TagHelpers.input.cache
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.TagHelpers.output.cache
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.RazorCoreGenerate.cache
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.RazorTargetAssemblyInfo.cache
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.RazorTargetAssemblyInfo.cs
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.Views.pdb
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.csproj.CopyComplete
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\staticwebassets\Consulting.StaticWebAssets.Manifest.cache
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\staticwebassets\Consulting.StaticWebAssets.xml
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.dll
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.pdb
+C:\Users\msingh11\Documents\My\Conestoga\PROG2230\S20\Final Term Review\Consulting\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.genruntimeconfig.cache
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.StaticWebAssets.xml
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.exe
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.deps.json
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.runtimeconfig.json
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.runtimeconfig.dev.json
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.pdb
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.Views.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.Views.pdb
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.AssemblyInfoInputs.cache
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.AssemblyInfo.cs
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.csproj.CoreCompileInputs.cache
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.RazorAssemblyInfo.cache
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.RazorAssemblyInfo.cs
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\staticwebassets\Consulting.StaticWebAssets.Manifest.cache
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\staticwebassets\Consulting.StaticWebAssets.xml
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\scopedcss\bundle\Consulting.styles.css
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.TagHelpers.input.cache
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.TagHelpers.output.cache
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.RazorCoreGenerate.cache
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.RazorTargetAssemblyInfo.cache
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.RazorTargetAssemblyInfo.cs
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.Views.pdb
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.csproj.CopyComplete
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.pdb
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.genruntimeconfig.cache
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\msingh11\OneDrive - McAfee\Documents\My\Conestoga\PROG2230\F20\Review\Final\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.csprojAssemblyReference.cache
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.StaticWebAssets.xml
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.exe
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.deps.json
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.runtimeconfig.json
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.runtimeconfig.dev.json
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.pdb
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.Views.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.Views.pdb
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.AssemblyInfoInputs.cache
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.AssemblyInfo.cs
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.csproj.CoreCompileInputs.cache
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.RazorAssemblyInfo.cache
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.RazorAssemblyInfo.cs
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\staticwebassets\Consulting.StaticWebAssets.Manifest.cache
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\staticwebassets\Consulting.StaticWebAssets.xml
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\scopedcss\bundle\Consulting.styles.css
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.TagHelpers.input.cache
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.TagHelpers.output.cache
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.RazorCoreGenerate.cache
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.RazorTargetAssemblyInfo.cache
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.RazorTargetAssemblyInfo.cs
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.Views.pdb
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.csproj.CopyComplete
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.dll
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.pdb
+C:\Users\Manny\Downloads\Consulting - 3.1-New\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.genruntimeconfig.cache
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.StaticWebAssets.xml
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.exe
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.deps.json
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.runtimeconfig.json
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.runtimeconfig.dev.json
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.pdb
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.Views.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.Views.pdb
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.csproj.AssemblyReference.cache
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.AssemblyInfoInputs.cache
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.AssemblyInfo.cs
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.csproj.CoreCompileInputs.cache
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.RazorAssemblyInfo.cache
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.RazorAssemblyInfo.cs
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\staticwebassets\Consulting.StaticWebAssets.Manifest.cache
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\staticwebassets\Consulting.StaticWebAssets.xml
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\scopedcss\bundle\Consulting.styles.css
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.TagHelpers.input.cache
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.TagHelpers.output.cache
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.RazorCoreGenerate.cache
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.RazorTargetAssemblyInfo.cache
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.RazorTargetAssemblyInfo.cs
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.Views.pdb
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.dll
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.pdb
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.genruntimeconfig.cache
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.csproj.CopyComplete
+C:\Users\Manny\Documents\My\Conestoga\21F\PROG8550 - Microsoft Web Technologies\Review\Final Term\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.StaticWebAssets.xml
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.exe
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.deps.json
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.runtimeconfig.json
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.runtimeconfig.dev.json
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.pdb
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.Views.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Consulting.Views.pdb
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.AssemblyInfoInputs.cache
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.AssemblyInfo.cs
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.csproj.CoreCompileInputs.cache
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.RazorAssemblyInfo.cache
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.RazorAssemblyInfo.cs
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\staticwebassets\Consulting.StaticWebAssets.Manifest.cache
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\staticwebassets\Consulting.StaticWebAssets.xml
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\scopedcss\bundle\Consulting.styles.css
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.TagHelpers.input.cache
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.TagHelpers.output.cache
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.RazorCoreGenerate.cache
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.RazorTargetAssemblyInfo.cache
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.RazorTargetAssemblyInfo.cs
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.Views.pdb
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.dll
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.pdb
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.genruntimeconfig.cache
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.csproj.CopyComplete
+C:\Users\Manny\Downloads\Consulting - 3.11\Consulting - 3.1\Consulting\Consulting\obj\Debug\netcoreapp3.1\Consulting.csproj.AssemblyReference.cache
