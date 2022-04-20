@@ -1,0 +1,77 @@
+﻿@model IEnumerable<Consulting.Models.WorkSession>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.DateWorked)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HoursWorked)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.WorkDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.HourlyRate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ProvincialTax)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.TotalChargeBeforeTax)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Consultant)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Contract)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateWorked)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HoursWorked)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.WorkDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.HourlyRate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProvincialTax)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TotalChargeBeforeTax)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Consultant.FirstName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Contract.Name)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.WorkSessionId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.WorkSessionId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.WorkSessionId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
