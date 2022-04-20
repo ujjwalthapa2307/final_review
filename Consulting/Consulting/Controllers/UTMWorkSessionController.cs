@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Consulting.Models;
+using Microsoft.AspNetCore.Http;
 
 namespace Consulting.Controllers
 {
@@ -19,8 +20,32 @@ namespace Consulting.Controllers
         }
 
         // GET: UTMWorkSession
-        public async Task<IActionResult> Index()
+        public async Task<IActionResult> Index(string ContractId)
         {
+            if (!string.IsNullOrEmpty(ContractId))
+            {
+                Response.Cookies.Append("ContractId", ContractId);
+                HttpContext.Session.SetString("ContractId", ContractId);
+            }
+            else if (Request.Query[ContractId].Any())
+            {
+                ContractId = Request.Query["ContractId"].ToString();
+                Response.Cookies.Append("ContractId", ContractId);
+                HttpContext.Session.SetString("ContractId", ContractId);
+            }
+            else if (Request.Cookies["ContractId"] != null)
+            {
+                ContractId = Request.Cookies["ContractId"].ToString();
+            }
+            else if (HttpContext.Session.GetString("ContractId") != null)
+            {
+                ContractId = HttpContext.Session.GetString("ContractId");
+            }
+            else
+            {
+                TempData["message"] = "Please select Contract";
+                return RedirectToAction("Index", "Contract");
+            }
             var consultingContext = _context.WorkSession.Include(w => w.Consultant).Include(w => w.Contract);
             return View(await consultingContext.ToListAsync());
         }
