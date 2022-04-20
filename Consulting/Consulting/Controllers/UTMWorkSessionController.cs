@@ -44,7 +44,7 @@ namespace Consulting.Controllers
             else
             {
                 TempData["message"] = "Please select Contract";
-                return RedirectToAction("Index", "Contract");
+                return RedirectToAction("Index", "UTMContract");
             }
             var consultingContext = _context.WorkSession.Include(w => w.Consultant).Include(w => w.Contract);
             return View(await consultingContext.ToListAsync());
